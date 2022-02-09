@@ -1,4 +1,4 @@
-import SoftwareDeveloper from 'akash';
+import SoftwareDeveloper from 'akash'; 
 import { Languages, Frameworks } from 'akash/skills';
 
 class Bio extends SoftwareDeveloper {
