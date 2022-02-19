@@ -10,9 +10,8 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP'];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['Vue', 'Laravel'];
+  frameworks = ['Bootstrap', 'Laravel'];
 }
 
 
-Connect with me:
-website    website    website    website    website
+
