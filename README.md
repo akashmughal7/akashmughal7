@@ -12,6 +12,6 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['Bootstrap', 'Laravel'];
 }
-
+ 
 
 
