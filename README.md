@@ -17,7 +17,7 @@ location = 'Lahore,Punjab,Pakistan';
 class Skills extends SoftwareDeveloper {
 languages  = ['JavaScript', 'PHP'];
 databases  = ['MySQL', 'MongoDB'];
-frameworks = ['Bootstrap', 'Laravel'];
+frameworks = ['Bootstrap','VueJs','Laravel'];
 }
 ```
 <h3>Where to find me</h3>
